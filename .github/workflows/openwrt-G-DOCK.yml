@@ -1,6 +1,6 @@
 # # # # # # # # # # #
 # 自动构建 openWrt G-DOCK
-#     花妆男
+#     花妆男1
 # # # # # # # # # # #
 name: OpenWrt CI G-DOCK
 on:
